@@ -7,6 +7,6 @@
   "repository": "https://github.com/jerasor/intro-to-heroku",
   "addons": [
     "heroku-postgresql",
-    "heroku-connect"
+    "herokuconnect"
   ]
 }
